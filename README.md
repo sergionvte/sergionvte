@@ -1,8 +1,8 @@
-👋 Hello there! I'm Sergio, a passionate developer who loves working with Python and Django. Currently pursuing my engineering degree, I'm constantly exploring and learning new things related to programming.
+👋 Hello there! I'm Sergio, a passionate developer who loves working with Python and Flask. Currently pursuing my engineering degree, I'm constantly exploring and learning new things related to programming.
 
-👨‍💻 I enjoy tackling challenges and finding creative solutions to complex problems. My primary focus lies in web development using the Django framework, but I also have experience in other areas of software development.
+👨‍💻 I enjoy tackling challenges and finding creative solutions to complex problems. My primary focus lies in web development using the Flask framework (I am also currently learning Django and React), but I also have experience in other areas of software development.
 
-🎨 Besides my programming endeavors, I have a few hobbies that help me maintain a balance. I find solace in painting, and I'm always eager to experiment with different art styles. Reading is another favorite pastime of mine, especially when it involves exploring topics related to technology and science.
+🎨 Besides my programming endeavors, I have a few hobbies that help me maintain a balance. I find solace in painting, and I'm always eager to experiment with different art styles. Reading is another favorite pastime of mine.
 
 🌱 I'm excited about collaborating on interesting projects and learning from talented developers. I'm open to new opportunities and constantly seeking to expand my knowledge in the field of programming.
 
