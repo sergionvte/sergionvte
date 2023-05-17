@@ -1,7 +1,12 @@
-### Hi! I'm Sergio 😁
-I'm currently a computer engineer student at the University of Guadalajara 👨🏽‍🎓.
-I have knowledge in languages such as C, C++, Java and Python, although I consider that my strong point is Python 🐍.
-Currently I'm learning about web development with Javascript (it's a new programming language for me) 🤯.
+👋 Hello there! I'm Sergio, a passionate developer who loves working with Python and Django. Currently pursuing my engineering degree, I'm constantly exploring and learning new things related to programming.
+
+👨‍💻 I enjoy tackling challenges and finding creative solutions to complex problems. My primary focus lies in web development using the Django framework, but I also have experience in other areas of software development.
+
+🎨 Besides my programming endeavors, I have a few hobbies that help me maintain a balance. I find solace in painting, and I'm always eager to experiment with different art styles. Reading is another favorite pastime of mine, especially when it involves exploring topics related to technology and science.
+
+🌱 I'm excited about collaborating on interesting projects and learning from talented developers. I'm open to new opportunities and constantly seeking to expand my knowledge in the field of programming.
+
+🤝 Feel free to reach out to me and share ideas! Together, we can create innovative solutions and make the tech world a better place.
 
 <!--
 **sergionvte/sergionvte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
