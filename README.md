@@ -1,24 +1,18 @@
-👋 Hello there! I'm Sergio, a passionate developer who loves working with Python and Flask. Currently pursuing my engineering degree, I'm constantly exploring and learning new things related to programming.
+# Sergio Navarrete
 
-👨‍💻 I enjoy tackling challenges and finding creative solutions to complex problems. My primary focus lies in web development using the Flask framework (I am also currently learning Django and React), but I also have experience in other areas of software development.
+**Backend Developer** | Python · FastAPI · Django · SQL
 
-🎨 Besides my programming endeavors, I have a few hobbies that help me maintain a balance. I find solace in painting, and I'm always eager to experiment with different art styles. Reading is another favorite pastime of mine.
+Backend developer at HP Inc. building REST APIs, ETL pipelines and data automation in production. I own features end to end, from database schema design to deployment.
 
-🌱 I'm excited about collaborating on interesting projects and learning from talented developers. I'm open to new opportunities and constantly seeking to expand my knowledge in the field of programming.
+- **Backend:** Python, FastAPI, Django, Flask, REST APIs, JWT
+- **Databases:** SQL Server, PostgreSQL, Redis
+- **Data & Automation:** Pandas, ETL pipelines, SSIS, Power Automate
+- **Tools:** Git, Docker, pytest, Azure
 
-🤝 Feel free to reach out to me and share ideas! Together, we can create innovative solutions and make the tech world a better place.
+### Featured project
 
-<!--
-**sergionvte/sergionvte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Apigen](https://shop-api-demo.onrender.com/docs)**: generates a production-ready REST API from a YAML spec (FastAPI, PostgreSQL, Redis, Docker) with JWT auth, CRUD, background jobs, tests and docs. 363 tests, 0 critical vulnerabilities.
 
-Here are some ideas to get you started:
+### Find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://www.sergionvte.net) · [LinkedIn](https://www.linkedin.com/in/sergionvte/)
